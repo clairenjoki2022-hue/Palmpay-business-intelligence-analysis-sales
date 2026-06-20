@@ -33,7 +33,7 @@ Connected analytical results to business implications, such as pricing strategy,
 Suggested data-driven improvements for understanding customer behavior and optimizing sales cycles.
 # Learnings
 This project deepened our understanding of how data context matters more than visuals.
-We learned to:
+# We learned to:
 
 Investigate why trends occur, not just what trends exist.
 Connect data stories to real-world events and economic behavior.
